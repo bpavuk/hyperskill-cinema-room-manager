@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Always, because it is more universal
+- text: If we want to catch all exceptions in one
+- text: If a try-catch statement consists of one catch block
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20600#comment
+status: Solved
+record: -1
+local_check: false
